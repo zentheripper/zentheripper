@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zentheripper
 - 👀 I’m interested in Python, Web, Web Security, Cryptography
-- 🌱 I’m currently learning Python, Networking
+- 🌱 I’m currently learning basics of security
 - 💞️ I’m looking to collaborate on Web testing, Security Testing
 - 📫 How to reach me raduprodea@gmail.com
 
